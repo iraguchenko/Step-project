@@ -3,7 +3,7 @@
 ![](resources/2.png?raw=true)
 ![](resources/3.png?raw=true)
 
-# Tablue showcase
+# Tableau showcase
 ![](resources/4.png?raw=true)
 ![](resources/5.png?raw=true)
 
