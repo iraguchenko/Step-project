@@ -2,4 +2,5 @@
 
 ## Dashbard 1
 
-![](resources\1.png)
+![Alt text](resources\1.png?raw=true "Title")
+
